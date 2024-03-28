@@ -29,6 +29,7 @@ body {
 }
 
 #hero footer {
+  padding: 20p;
   justify-content:space-between;
 }
 
@@ -70,6 +71,8 @@ section {
 }
 
 #hero img {
+  display: flex;
+  height: 90vh;
   width: 80vw;
 }
 
